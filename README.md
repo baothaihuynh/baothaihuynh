@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Data Science and more
 - 💞️ I’m looking to collaborate on any!
 - 📫 You can reach me in https://www.linkedin.com/in/huynhthaibao/
-- 🔍 An Accountant and Entry-Level Data Analyst with 3 years of experience working in the fashion retail and convenience store industry in Ho Chi Minh City. Being exposed to large amounts of customer and product data daily has sparked a deep passion for data analysis. I am seeking a Fresher Data Analyst position to apply my data analysis skills that I have acquired through both academic efforts and professional experience.
+- 🔍 An Accountant and Entry-Level Data Analyst with 3 years of experience working in the Retail Industry in Ho Chi Minh City. With a solid background working with data and detail oriented, I'm seeking for a Data Analyst fresher position. I believe my technical skill, a growth and result oriented mindset will help me to
+create concrete results. Learning and aiming to be a future Senior Data Analyst and Data Scientist.
